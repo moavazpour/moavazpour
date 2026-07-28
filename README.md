@@ -1,40 +1,29 @@
-# 👋 Hi, I'm Mohammadali Avazpour  
+# Mo Avazpour
 
-🎓 **Master’s Student in Automated Driving & Vehicle Safety @ THI (Ingolstadt, Germany)**  
-💡 Passionate about **Autonomous Driving Systems (ADAS), Sensor Fusion, and Embedded AI**  
-🚀 Bridging **software, perception, and embedded control** to make intelligent vehicles safer and smarter.  
+**ITS & Autonomous Driving Systems Engineer** — Perception, V2X & Embedded Systems
+Ingolstadt, Germany
 
----
+## About
 
-### 🧠 Core Competencies
-- **Autonomous Driving & ADAS:** Perception, decision-making, and control for intelligent mobility  
-- **Sensor Fusion:** Integrating vision, radar, LiDAR, and GNSS data for robust environment modeling  
-- **Computer Vision:** Object detection, tracking, and scene understanding using YOLO, OpenCV, and TensorRT  
-- **Embedded Systems:** Real-time programming on STM32 (ARM Cortex), FreeRTOS, and CAN communication  
-- **Software Engineering:** C++, Python, Docker, Linux, Git, Node.js, MySQL  
+6+ years building intelligent transportation systems end-to-end, from embedded perception hardware to cooperative V2X software, with measurable real-world deployment outcomes. I've taken systems from PCB layout through firmware, perception models, dashboards, to stakeholder-facing field deployment.
 
----
+## Tech Stack
 
-### 🔬 Research & Interests
-- Multi-Sensor Fusion for Autonomous Vehicles  
-- Deep Learning for Perception & Scene Understanding  
-- Vehicle Dynamics & Control Algorithms  
-- V2X Communication & Intelligent Transportation Systems  
-- Safety-Critical Embedded Software  
+**Perception & AI** — YOLO (incl. YOLO26), OpenCV, PyTorch, mmdetection, 3D object detection
+**Embedded & Hardware** — STM32, embedded C/C++, Altium PCB design
+**Simulation & Automotive** — SUMO, CARLA, OCIT, adaptive traffic signal control
+**Software & Infra** — Python, C++, C#, React, Node.js, Docker
 
----
+## Featured Projects
 
-### 🧩 Current Focus
-Working on the intersection of **Computer Vision**, **Embedded Systems**, and **Automotive Software**,  
-aiming to contribute to **next-generation ADAS and Autonomous Driving technologies**.
+**Deployed Products**
+- [Adaptive Traffic Signal System](#) — Vision-based adaptive control, field-deployed, measured delay reduction and CO2 savings
 
----
+**Perception & AI**
+- [Universal 3D Object Detector](#)
+- [Traffic Sign Recognition](#)
+- [ANPR System](#)
 
-### 🌍 Connect with Me
-[🌐 Website](https://mavazpour.com)  
-[💼 LinkedIn](https://linkedin.com/in/mavazpour)  
-[📧 Email](mailto:mavazpour99@gmail.com)  
-
----
-
-⭐ _"Driving the future of mobility through intelligent perception and embedded innovation."_
+**Systems & Embedded**
+- [PCB & STM32 Traffic Controller](#)
+- [OTA & Central ECU Work](#)
