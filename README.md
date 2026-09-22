@@ -1,6 +1,6 @@
 # Mo Avazpour
 
-Computer Vision & Perception Engineer based in Ingolstadt, Germany, building real-time perception systems for intelligent transportation and autonomous driving. Currently an M.Sc. student in Automated Driving & Vehicle Safety at THI, researching cooperative V2X perception at AImotion Bavaria.
+Computer Vision & Perception Engineer based in Germany, building real-time perception systems for intelligent transportation and autonomous driving. Currently an M.Sc. student in Automated Driving & Vehicle Safety at THI, researching cooperative V2X perception at AImotion Bavaria.
 
 ## Tech Stack
 
@@ -17,8 +17,7 @@ Computer Vision & Perception Engineer based in Ingolstadt, Germany, building rea
 
 ## Featured Work
 
-- [Portfolio & project write-ups](https://moavazpour.com) — adaptive traffic control, ANPR, PTZ violation detection, roadside 3D perception, with interactive demos
-- [bakery-conveyor-cv](https://github.com/mavazpour/bakery-conveyor-cv) — real-time zero-shot detection, tracking & classification on a moving conveyor
+- [Portfolio & project write-ups](https://moavazpour.com) — adaptive traffic control, ANPR, roadside 3D perception, with interactive demos
 
 ## Connect
 
