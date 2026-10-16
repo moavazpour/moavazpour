@@ -1,24 +1,28 @@
 # Mo Avazpour
 
-Computer Vision & Perception Engineer based in Germany, building real-time perception systems for intelligent transportation and autonomous driving. Currently an M.Sc. student in Automated Driving & Vehicle Safety at THI, researching cooperative V2X perception at AImotion Bavaria.
+Computer Vision & Perception Engineer focused on real-time and edge perception, based in Ingolstadt, Germany. Production experience in Intelligent Transportation Systems (ANPR, camera-based adaptive traffic signal control), plus automotive working-student experience in Germany (CARIAD, diconium) and research in V2X cooperative perception at AImotion Bavaria. M.Sc. student in Automated Driving and Vehicle Safety at THI.
 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Focus areas:** YOLO / object detection & tracking, LiDAR & camera-LiDAR sensor fusion, TensorRT edge deployment, SUMO/CARLA simulation, embedded systems (STM32).
+**Focus areas:** YOLO object detection & multi-object tracking, edge deployment (NVIDIA Jetson, TensorRT, low-power x86), cameras & streaming (RTSP, GStreamer, Basler Pylon), LiDAR & camera-LiDAR 3D perception, SUMO/CARLA co-simulation for cooperative perception.
 
 ## Featured Work
 
-- [Portfolio & project write-ups](https://moavazpour.com) — adaptive traffic control, ANPR, roadside 3D perception, with interactive demos
+- [Automatic Number Plate Recognition at the Edge](https://github.com/moavazpour/anpr) — edge ANPR engine, rollout from an 8-camera pilot to 74 cameras; 1,200-vehicle field test with no missed vehicles and 99.4% exact plate reads
+- [Adaptive Intersection Controller](https://github.com/moavazpour/AdaptiveIntersectionController) — camera-based vehicle detection for adaptive signal control; 3 intersections, 12 cameras, cycle 12% shorter (team result)
+- [Traffic Sign Recognition & EU ISA](https://github.com/moavazpour/TSR-ISA-EU-Regulation) — two-stage YOLO pipeline, mAP50 0.970 / 0.950, 5.7 ms on A100, grade 1.0
+- [Detection, Tracking & Classification on a Moving Conveyor](https://github.com/moavazpour/bakery-conveyor-cv) — FastSAM + DINOv2, no labeled training set, Gradio demo on Hugging Face
+- [Portfolio & project write-ups](https://moavazpour.com) — including the Universal Roadside 3D Object Detector (7 datasets, 1.7M+ objects, pose mAP50 0.44 → 0.86, grade 1.0)
 
 ## Connect
 
-[Portfolio](https://moavazpour.com) · [LinkedIn](https://linkedin.com/in/mavazpour99) · [Email](mailto:mavazpour99@gmail.com)
+[Portfolio](https://moavazpour.com) · [LinkedIn](https://linkedin.com/in/moavazpour) · [Email](mailto:mavazpour99@gmail.com)
