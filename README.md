@@ -21,7 +21,7 @@ Computer Vision & Perception Engineer focused on real-time and edge perception, 
 - [Adaptive Intersection Controller](https://github.com/moavazpour/AdaptiveIntersectionController) — camera-based vehicle detection module for adaptive signal control; 3 intersections, 12 cameras, 123 days of operation, cycle 12% shorter (team result)
 - [Traffic Sign Recognition & EU ISA](https://github.com/moavazpour/TSR-ISA-EU-Regulation) — two-stage YOLO pipeline, mAP50 0.970 / 0.950, 5.7 ms on A100, grade 1.0
 - [Detection, Tracking & Classification on a Moving Conveyor](https://github.com/moavazpour/bakery-conveyor-cv) — FastSAM + DINOv2, no labeled training set, Gradio demo on Hugging Face
-- [Universal Roadside 3D Object Detector](https://moavazpour.com/projects/universal-roadside-3d-object-detector) — 7 datasets unified into 1.7M+ objects, pose mAP50 0.44 → 0.86, grade 1.0
+- [Universal Roadside 3D Object Detector](https://github.com/moavazpour/universal-roadside-3d-detector) — 7 datasets unified into 1.7M+ objects, pose mAP50 0.44 → 0.86, grade 1.0
 
 ## Connect
 
