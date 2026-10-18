@@ -17,11 +17,11 @@ Computer Vision & Perception Engineer focused on real-time and edge perception, 
 
 ## Featured Work
 
-- [Automatic Number Plate Recognition at the Edge](https://github.com/moavazpour/anpr) — multithreaded C++ ANPR engine, rollout from an 8-camera pilot to 74 cameras; ~25 FPS YOLOv4-tiny on Jetson Nano with TensorRT; 1,200-vehicle, 24-hour field test with no missed vehicles and 99.4% exact plate reads
-- [Adaptive Intersection Controller](https://github.com/moavazpour/AdaptiveIntersectionController) — camera-based vehicle detection module for adaptive signal control; 3 intersections, 12 cameras, 123 days of operation, cycle 12% shorter (team result)
+- [Automatic Number Plate Recognition at the Edge](https://github.com/moavazpour/anpr-showcase) — multithreaded C++ ANPR engine, rollout from an 8-camera pilot to 74 cameras; ~25 FPS YOLOv4-tiny on Jetson Nano with TensorRT; 1,200-vehicle, 24-hour field test with no missed vehicles and 99.4% exact plate reads
+- [Adaptive Intersection Controller](https://github.com/moavazpour/adaptive-intersection-showcase) — camera-based vehicle detection module for adaptive signal control; 3 intersections, 12 cameras, 123 days of operation, cycle 12% shorter (team result)
 - [Traffic Sign Recognition & EU ISA](https://github.com/moavazpour/TSR-ISA-EU-Regulation) — two-stage YOLO pipeline, mAP50 0.970 / 0.950, 5.7 ms on A100, grade 1.0
 - [Detection, Tracking & Classification on a Moving Conveyor](https://github.com/moavazpour/bakery-conveyor-cv) — FastSAM + DINOv2, no labeled training set, Gradio demo on Hugging Face
-- [Universal Roadside 3D Object Detector](https://github.com/moavazpour/universal-roadside-3d-detector) — 7 datasets unified into 1.7M+ objects, pose mAP50 0.44 → 0.86, grade 1.0
+- [Universal Roadside 3D Object Detector](https://github.com/moavazpour/roadside-3d-detector-showcase) — 7 datasets unified into 1.7M+ objects, pose mAP50 0.44 → 0.86, grade 1.0
 
 ## Connect
 
